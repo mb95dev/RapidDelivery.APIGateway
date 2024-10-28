@@ -1,0 +1,6 @@
+@RapidDelivery.APIGateway_HostAddress = http://localhost:5291
+
+GET {{RapidDelivery.APIGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
